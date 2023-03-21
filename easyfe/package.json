@@ -18,7 +18,7 @@
     "typescript": "^5.0.2"
   },
   "dependencies": {
-    "@types/node": "^18.15.3",
+    "@types/node": "^18.15.5",
     "ts-lib": "^0.0.5",
     "ts-node": "^10.9.1"
   }
